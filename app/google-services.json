@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969895392666",
+    "project_id": "anagramfinder-75b88",
+    "storage_bucket": "anagramfinder-75b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969895392666:android:fa6b62e22d998d113f7623",
+        "android_client_info": {
+          "package_name": "com.keyurmistry.anagramfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969895392666-2e5s5ftnfkm65vqopogptv7b69tn8tii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaEDPDPHB_H-JIdT4Qq6sEdxrmQntkvx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969895392666-2e5s5ftnfkm65vqopogptv7b69tn8tii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
