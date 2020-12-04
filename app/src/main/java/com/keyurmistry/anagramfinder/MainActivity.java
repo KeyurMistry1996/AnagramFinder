@@ -98,7 +98,7 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 if (resultList.size() > 0) {
-                    resultString = "Congratulation found " + resultList.size() + " match \n" + resultString;
+                    resultString = "Congratulation found " + resultList.size() + " anograms \n" + resultString;
                     result.setText(resultString);
                     result.setTextColor(getResources().getColor(R.color.green));
                 } else {
